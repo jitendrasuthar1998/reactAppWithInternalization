@@ -1,0 +1,14 @@
+{
+  "description": {
+    "part1": "<1>src/App.js</1> संपादित करें और पुनः लोड करने के लिए सहेजे",
+    "part2": "हिंदी में प्रतिक्रिया जानें।"
+  },
+  "counter": "सिर्फ एक बार भाषा बदली",
+  "counter_plural": "भाषा पहले ही {{count}} बार बदली जा चुकी है",
+  "footer": {
+    "date": "आज {{date, DATE_HUGE}} है",
+    "date_morning": "Good morning! Today is {{date, DATE_HUGE}} | Have a nice day!",
+    "date_afternoon": "Good afternoon! It's {{date, DATE_HUGE}}",
+    "date_evening": "Good evening! Today was the {{date, DATE_HUGE}}"
+  }
+}
